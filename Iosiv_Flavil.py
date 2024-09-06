@@ -1,4 +1,4 @@
-#num = int(input())
+g#num = int(input())
 #shift = int(input())
 #facts = [True] * num
 #step = 1
