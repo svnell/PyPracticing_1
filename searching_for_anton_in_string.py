@@ -13,4 +13,4 @@ i = 0
 j = 0
 for line in range(len(frigers)):
     if indexer(frigers[line], anton, j, i):
-        print(line + 1, end=' ')
+        print(line + 1, end=' ')    
